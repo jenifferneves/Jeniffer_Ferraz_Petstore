@@ -83,6 +83,8 @@ Contribuição
 
 Apoio
 
+Vitor Veloso: Montou o projeto junto a mim e contribuiu com um trabalho em dupla.
+
 Professor da Trilha do Projeto: Demetrio
 
 Mentor do Projeto: Roger Rezende Ribeiro
